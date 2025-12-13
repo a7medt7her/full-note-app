@@ -58,5 +58,3 @@ This app is designed to be simple yet powerful, making it perfect for daily task
 ---
 
 ⭐ If you like this project, feel free to star it and contribute!
-
->>>>>>> e8dff6d8e88ee3948dafa6794f5395a12c4454ac
