@@ -1,4 +1,4 @@
-# 📝 Note App
+<img src="assets/banner.svg" alt="full-note-app" width="100%">
 
 A modern, fast, and efficient Note Application built to help users manage their tasks and ideas effortlessly. The app focuses on clean architecture, smooth performance, and a great user experience.
 
